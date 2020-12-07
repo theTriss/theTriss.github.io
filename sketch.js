@@ -3,8 +3,8 @@ var ctracker;
 var videoInput;
 
 const size = {
-    width: window.innerWidth,
-    height: window.innerHeight
+    width: 250,
+    height: 150
 }
 
 function setup() {
